@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My coding skills](https://skillicons.dev/icons?i=visualstudio,vscode,cs,dotnet,git,docker,jenkins,linux,html,css)](https://skillicons.dev)
+[![My other skills](https://skillicons.dev/icons?i=mysql,figma,postman)](https://skillicons.dev)
 
 <!--
 **BagardHugo/BagardHugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

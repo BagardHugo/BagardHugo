@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 [![My coding skills](https://skillicons.dev/icons?i=visualstudio,vscode,cs,dotnet,git,docker,jenkins,linux,html,css)](https://skillicons.dev)
+
 [![My other skills](https://skillicons.dev/icons?i=mysql,figma,postman)](https://skillicons.dev)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BagardHugo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BagardHugo/BagardHugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
